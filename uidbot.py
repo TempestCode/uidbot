@@ -25,4 +25,4 @@ async def bob(ctx, uid=None, *, text=None):
         member_text[str(member.id)] = text
         await ctx.send(f"Saved text for {member.mention}")
 
-bot.run('your_token_here')
+bot.run('MTA4NjY3NTk1NjkzNDExNTM3MA.Gn8fuU.q_YCxID-JlV0G86ja_NzBnfF37v54VR1QXtTJ0')
